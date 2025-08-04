@@ -4,7 +4,8 @@ let abc: null | String | number = null;
 
 console.log(typeof abc);
 
-var userName= null;
+var userName: null | String | number = null;
 console.log(userName);  
 
-// userName = "Himanshu Sharma";
+userName = "Himanshu Sharma";
+console.log(userName);

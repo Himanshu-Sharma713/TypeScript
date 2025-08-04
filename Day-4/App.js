@@ -3,4 +3,5 @@ var abc = null;
 console.log(typeof abc);
 var userName = null;
 console.log(userName);
-// userName = "Himanshu Sharma";
+userName = "Himanshu Sharma";
+console.log(userName);
