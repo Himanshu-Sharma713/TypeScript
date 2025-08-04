@@ -1,11 +1,10 @@
 // Null & Undefined DataTypes in TypeScript
 
-let abc: null = null;
+let abc: null | String | number = null;
 
 console.log(typeof abc);
 
 var userName= null;
-console.log(userName);
+console.log(userName);  
 
 userName = "Himanshu Sharma";
-    
