@@ -1,8 +1,5 @@
 // Number Data Types in TS
-let num: number = 15;
-
+var num = 15;
 console.log(num);
-
-let age: number = 22;
-
+var age = 22;
 console.log(age);
