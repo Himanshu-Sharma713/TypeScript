@@ -1,5 +1,8 @@
 let fullName: String = "Himanshu Sharma";
 let age: number = 22;
+let isTrue: boolean = true;
 
-console.log("Name:  ", fullName);
-console.log("Age:  ", age);
+if (isTrue) {
+  console.log("Name:  ", fullName);
+  console.log("Age:  ", age);
+}

@@ -1,4 +1,7 @@
 var fullName = "Himanshu Sharma";
 var age = 22;
-console.log("Name:  ", fullName);
-console.log("Age:  ", age);
+var isTrue = true;
+if (isTrue) {
+    console.log("Name:  ", fullName);
+    console.log("Age:  ", age);
+}
